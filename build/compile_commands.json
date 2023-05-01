@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/zhe/BA_PnP/build/src",
+  "command": "/usr/bin/g++  -Dmyslam_EXPORTS -I/home/zhe/BA_PnP/include -I/usr/local/include/eigen3  -g -fPIC   -std=gnu++11 -o CMakeFiles/myslam.dir/KeyPoint.cpp.o -c /home/zhe/BA_PnP/src/KeyPoint.cpp",
+  "file": "/home/zhe/BA_PnP/src/KeyPoint.cpp"
+},
+{
+  "directory": "/home/zhe/BA_PnP/build/src",
+  "command": "/usr/bin/g++  -Dmyslam_EXPORTS -I/home/zhe/BA_PnP/include -I/usr/local/include/eigen3  -g -fPIC   -std=gnu++11 -o CMakeFiles/myslam.dir/FastDetect.cpp.o -c /home/zhe/BA_PnP/src/FastDetect.cpp",
+  "file": "/home/zhe/BA_PnP/src/FastDetect.cpp"
+},
+{
+  "directory": "/home/zhe/BA_PnP/build/src",
+  "command": "/usr/bin/g++  -Dmyslam_EXPORTS -I/home/zhe/BA_PnP/include -I/usr/local/include/eigen3  -g -fPIC   -std=gnu++11 -o CMakeFiles/myslam.dir/GetBrief.cpp.o -c /home/zhe/BA_PnP/src/GetBrief.cpp",
+  "file": "/home/zhe/BA_PnP/src/GetBrief.cpp"
+},
+{
+  "directory": "/home/zhe/BA_PnP/build/src",
+  "command": "/usr/bin/g++  -Dmyslam_EXPORTS -I/home/zhe/BA_PnP/include -I/usr/local/include/eigen3  -g -fPIC   -std=gnu++11 -o CMakeFiles/myslam.dir/Match.cpp.o -c /home/zhe/BA_PnP/src/Match.cpp",
+  "file": "/home/zhe/BA_PnP/src/Match.cpp"
+},
+{
+  "directory": "/home/zhe/BA_PnP/build/src",
+  "command": "/usr/bin/g++  -Dmyslam_EXPORTS -I/home/zhe/BA_PnP/include -I/usr/local/include/eigen3  -g -fPIC   -std=gnu++11 -o CMakeFiles/myslam.dir/BFMatch.cpp.o -c /home/zhe/BA_PnP/src/BFMatch.cpp",
+  "file": "/home/zhe/BA_PnP/src/BFMatch.cpp"
+},
+{
+  "directory": "/home/zhe/BA_PnP/build/src",
+  "command": "/usr/bin/g++  -Dmyslam_EXPORTS -I/home/zhe/BA_PnP/include -I/usr/local/include/eigen3  -g -fPIC   -std=gnu++11 -o CMakeFiles/myslam.dir/BundleAdjustment.cpp.o -c /home/zhe/BA_PnP/src/BundleAdjustment.cpp",
+  "file": "/home/zhe/BA_PnP/src/BundleAdjustment.cpp"
+},
+{
+  "directory": "/home/zhe/BA_PnP/build/app",
+  "command": "/usr/bin/g++   -I/usr/local/include/eigen3 -I/home/zhe/BA_PnP/include -isystem /usr/local/include/opencv  -g   -std=gnu++11 -o CMakeFiles/BA_PnP.dir/BA_PnP.cpp.o -c /home/zhe/BA_PnP/app/BA_PnP.cpp",
+  "file": "/home/zhe/BA_PnP/app/BA_PnP.cpp"
+}
+]
