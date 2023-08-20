@@ -1,8 +1,0 @@
-/home/zhe/BA_PnP/build/CMakeFiles/rebuild_cache.dir
-/home/zhe/BA_PnP/build/CMakeFiles/edit_cache.dir
-/home/zhe/BA_PnP/build/src/CMakeFiles/rebuild_cache.dir
-/home/zhe/BA_PnP/build/src/CMakeFiles/edit_cache.dir
-/home/zhe/BA_PnP/build/src/CMakeFiles/myslam.dir
-/home/zhe/BA_PnP/build/app/CMakeFiles/rebuild_cache.dir
-/home/zhe/BA_PnP/build/app/CMakeFiles/edit_cache.dir
-/home/zhe/BA_PnP/build/app/CMakeFiles/BA_PnP.dir

@@ -1,1 +1,0 @@
-/usr/bin/g++ -fPIC -g  -shared -Wl,-soname,libmyslam.so -o ../../lib/libmyslam.so CMakeFiles/myslam.dir/KeyPoint.cpp.o CMakeFiles/myslam.dir/FastDetect.cpp.o CMakeFiles/myslam.dir/GetBrief.cpp.o CMakeFiles/myslam.dir/Match.cpp.o CMakeFiles/myslam.dir/BFMatch.cpp.o CMakeFiles/myslam.dir/BundleAdjustment.cpp.o 
